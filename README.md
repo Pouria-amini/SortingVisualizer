@@ -21,7 +21,9 @@ The sorting algorithms include:
 
 <h3>Demo:</h3>
 <h4>Sorting Demo:<h4>
-https://user-images.githubusercontent.com/64161548/147533478-0114bbbc-4198-4ac5-a3ec-c7787c3d8ea5.mov
+
+https://user-images.githubusercontent.com/64161548/147533798-5b1527dc-eca4-4b32-84ff-7278b754f73a.mp4
+
 
 <h4>Game Demo:<h4>
 <img width="961" alt="Screen Shot 2021-12-28 at 1 02 41 AM" src="https://user-images.githubusercontent.com/64161548/147533550-6d846fae-6c79-4806-a733-129cbf506ac9.png">
