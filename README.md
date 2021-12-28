@@ -1,7 +1,5 @@
 <h2>SORTVIS<br>Sorting Visualization Application</h2>
 
-_**Created by Pouria Amini**_
-
 An educational game created with the help of swing and awt 
 frameworks to teach the users how the sorting algorithms work in the 
 world of the computers. The application will visualize the process of sorting 
