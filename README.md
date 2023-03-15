@@ -1,4 +1,4 @@
-<h2>SORTVIS<br>Sorting Visualization Application</h2>
+<h2>SORTVIZ<br>Sorting Visualization Application</h2>
 
 An educational game created with the help of swing and awt 
 frameworks to teach the users how the sorting algorithms work in the 
